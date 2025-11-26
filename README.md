@@ -33,5 +33,8 @@ __Procedure__:
 7 — Demodulate each isolated channel (coherent) and low-pass filter to recover baseband
 
 __Output_:
+![WhatsApp Image 2025-11-26 at 21 19 46_fefc8b7f](https://github.com/user-attachments/assets/1b941452-3aa3-42de-87ad-c8888d4d4aa5)
 
 __Result__:
+![WhatsApp Image 2025-11-26 at 21 19 54_130f5726](https://github.com/user-attachments/assets/9b7fec86-c0f6-4d15-a007-9133c755d1f5)
+
